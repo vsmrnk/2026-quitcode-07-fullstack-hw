@@ -17,7 +17,7 @@
 ## Розробник
 
 - Рядок «Вимоги:» з `docs/conformance.md` на SHA: Вимоги: https://github.com/solomchaak/property-workflows-spec · джерело: issues · знімок 2026-10-27
-- PR «Оновлення вимог» зі зрізом 2 (A): https://github.com/vsmrnk/property-workflows/pull/15
+- PR «Оновлення вимог» зі зрізом 2 (A): https://github.com/vsmrnk/property-workflows/pull/15 — PR у репо розробника, гілка `sync/2026-10-25`, знімок 2026-10-25, злито 25.10
 - PR «Оновлення вимог» після уточнень PM (A): https://github.com/vsmrnk/property-workflows/pull/25 — знімок 2026-10-27; зміна специфікації з MODIFIED / ADDED — https://github.com/vsmrnk/property-workflows/pull/26
 - Питання в репо PM (A; щонайменше 2, з них щонайменше 1 — власне issue): https://github.com/solomchaak/property-workflows-spec/issues/21, https://github.com/solomchaak/property-workflows-spec/issues/22
 - PR «Специфікація» з `add-<зріз2>` (A): https://github.com/vsmrnk/property-workflows/pull/16
